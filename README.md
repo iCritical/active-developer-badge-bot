@@ -71,3 +71,5 @@ python bot.py
 📄 License
 
 MIT License — Feel free to use, modify, and distribute. If this bot helped you, a star is appreciated! 🌟
+![image](https://github.com/user-attachments/assets/cda10d91-ecae-4cbc-be32-3900f3c7c123)
+
