@@ -30,7 +30,7 @@ A simple Discord bot that helps you qualify for the [Active Developer Badge](htt
    - Go to [https://discord.com/developers/applications](https://discord.com/developers/applications)
    - Create a new application
    - Go to **Bot** tab → Click **Add Bot**
-   - Copy the **Token** and replace `BOTTOKENHERE` in the script
+   - Copy the **Token** and replace `YOUR-BOT-TOKEN-HERE` in the script
 
 4. **Invite the bot to your server**
    Use this OAuth2 URL (replace `YOUR_CLIENT_ID` with your app's Client ID):
