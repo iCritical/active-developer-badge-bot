@@ -17,7 +17,7 @@ A simple Discord bot that helps you qualify for the [Active Developer Badge](htt
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/active-developer-badge-bot.git
+   git clone https://github.com/iCritical/active-developer-badge-bot.git
    cd active-developer-badge-bot
    ```
 
